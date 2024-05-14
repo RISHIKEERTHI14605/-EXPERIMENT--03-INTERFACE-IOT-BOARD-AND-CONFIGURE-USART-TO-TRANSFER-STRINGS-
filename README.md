@@ -1,8 +1,8 @@
 
-###  DATE: 
+
 ###  NAME:RISHI KEERTHI K
 ###  ROLL NO :212222043007
-###  DEPARTMENT: CSE
+
 
 # EXPERIMENT--03-INTERFACING IOT DEVELOPMENT BOARD AND CONFIGURE USART FOR TRANSFERRING STRINGS 
 ## Aim: To Interface iot development board for configuring the the usart and transfer strings though it 
